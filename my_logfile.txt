@@ -1,0 +1,1 @@
+INFO:scraper:Finalizando importacao lote
